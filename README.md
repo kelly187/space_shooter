@@ -1,2 +1,3 @@
 # space_shooter
-Simple Planet Shooter Game made with Python and Pygame
+Amazing Simple Planet Shooter Game made with Python and Pygame
+Feel free to modify and create derivative works
